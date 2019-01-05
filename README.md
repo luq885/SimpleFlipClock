@@ -4,4 +4,4 @@
 
 其中钟表界面使用的是[flipclock.js](http://flipclockjs.com)
 
-[截图](https://github.com/luq885/SimpleFlipClock/blob/master/screen.gif?raw=true)
+![截图](https://github.com/luq885/SimpleFlipClock/blob/master/screen.gif?raw=true)
